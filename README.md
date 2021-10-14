@@ -1,16 +1,12 @@
 # recipes
 
-A new Flutter project.
+A recipe application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a simple application to show a list of recipes. The application is able to recalculate quantities of the recipe depending on the serving by using a Slider widget and update the UI accordingly.
 
-A few resources to get you started if this is your first Flutter project:
+Resources used for this project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Book: Flutter Apprentice](https://www.raywenderlich.com/books/flutter-apprentice/v2.0/chapters/2-hello-flutter)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
